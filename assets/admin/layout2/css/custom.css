@@ -1,0 +1,17 @@
+/* here you can put your own css to customize and override the theme */
+
+body {
+	background: url("../img/bodybg.jpg") no-repeat fixed center center rgba(0, 0, 0, 0) !important;
+}
+
+.navbar-fixed-top, .navbar-fixed-bottom {
+	left: 0;
+	position: absolute;
+	right: 0;
+	z-index: 1030;
+}
+
+.container {
+	margin-top: 30px;
+	width: 1124px;
+}
