@@ -19,3 +19,8 @@ body {
 .page-content-wrapper .no-sidebar {
 	margin-left: auto;
 }
+
+.tiles .tile.block-time {
+	width: 180px !important;
+	height: 70px;
+}
